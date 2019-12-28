@@ -1,1 +1,1 @@
-# Django_Tutolrial
+# Django_Tutorial
